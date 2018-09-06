@@ -17,6 +17,27 @@ On Sept 3, 2018, [/u/Caboucha](https://www.reddit.com/user/Caboucha) asked the f
 
 We are going to answer that question, but with a twist - YOU can pick the movie!
 
+### Voting
+<div class="box">
+  <dl>
+    <dt>TLDR</dt>
+    <dd>$1 per vote with $5 minimum, votes are cast via hashtags in comments on the gofundme page, votes are cast for movie and for charity, I will watch the movie that has the most points as of 12/24/2018.</dd>
+    
+    <dt>Details</dt>
+    <dd>Votes will be recorded for which movie I will watch, and for which charity you want to donate to. Votes cost $1 each, with a minimum donation of $5 for voting privileges, and will be recorded as points for any movie or charity. Votes will be cast via comments on gofundme, simply say what you want to say and leave a # to cast your vote. For example: if you were to donate ONE MILLION DOLLARS, your single comment would add a million points to the movie hashtagged in your comment, and a million points to the charity hashtagged in your comment. Example comment of example scenario: “Hey I hope you get to watch a movie you really enjoy! Keep up the good work you cute and funny fellow ;) #groundhogday #WoundedWarriorProject.” For this comment, one million points would go to the movie Groundhog Day, and one million points would to to the Wounded Warrior Project Charity. If for whatever reason you decide not to leave a comment, your movie points will go toward whichever movie is winning at the time of your donation, and your charity points will go to fund the Habitat for Humanity of San Antonio.</dd>
+  </dl>
+</div>
+
+### Perks
+<div class="box">
+  <ol>
+    <li>	$5+ You get points to enforce your will. Pick the movie you think I should have to endure, and pick your favorite charity.</li>
+    <li>	$69.420 - Nice, leave your email and I’ll send you a message.</li>
+    <li>	$70+ You get access to the chat within which I will interact with you folks every day from 9pm to 1am central time.</li>
+    <li>	Top donator for each day will have the opportunity to have me wear a shirt promoting a company of their choice, and I will read up to one page of a family friendly ad.</li>
+  </ol>
+</div>
+
 ### Rules
 <div class="box">
   <ol>
@@ -37,27 +58,6 @@ We are going to answer that question, but with a twist - YOU can pick the movie!
   <p>
   Other rules may be added as needed.  This is supposed to be very mentally and psychologically challenging. However, I want to be careful to avoid any dangerous or life-threatening complications.
   </p>
-</div>
-
-### Voting
-<div class="box">
-  <dl>
-    <dt>TLDR</dt>
-    <dd>$1 per vote with $5 minimum, votes are cast via hashtags in comments on the gofundme page, votes are cast for movie and for charity, I will watch the movie that has the most points as of 12/24/2018.</dd>
-    
-    <dt>Details</dt>
-    <dd>Votes will be recorded for which movie I will watch, and for which charity you want to donate to. Votes cost $1 each, with a minimum donation of $5 for voting privileges, and will be recorded as points for any movie or charity. Votes will be cast via comments on gofundme, simply say what you want to say and leave a # to cast your vote. For example: if you were to donate ONE MILLION DOLLARS, your single comment would add a million points to the movie hashtagged in your comment, and a million points to the charity hashtagged in your comment. Example comment of example scenario: “Hey I hope you get to watch a movie you really enjoy! Keep up the good work you cute and funny fellow ;) #groundhogday #WoundedWarriorProject.” For this comment, one million points would go to the movie Groundhog Day, and one million points would to to the Wounded Warrior Project Charity. If for whatever reason you decide not to leave a comment, your movie points will go toward whichever movie is winning at the time of your donation, and your charity points will go to fund the Habitat for Humanity of San Antonio.</dd>
-  </dl>
-</div>
-
-### Perks
-<div class="box">
-  <ol>
-    <li>	$5+ You get points to enforce your will. Pick the movie you think I should have to endure, and pick your favorite charity.</li>
-    <li>	$69.420 - Nice, leave your email and I’ll send you a message.</li>
-    <li>	$70+ You get access to the chat within which I will interact with you folks every day from 9pm to 1am central time.</li>
-    <li>	Top donator for each day will have the opportunity to have me wear a shirt promoting a company of their choice, and I will read up to one page of a family friendly ad.</li>
-  </ol>
 </div>
 
 ### Financial Concerns
