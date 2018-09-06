@@ -3,8 +3,8 @@ title:              The 140 Hour Movie Challenge
 bio:                'By Josiah'
 description:        "Send Jo to School. Send Money to Charity."
 locale:             en_US
-baseurl: "/140hourmovie" # the subpath of your site, e.g. /blog
-url: "https://bigjonroberts.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://140hourmovie.com" # the base hostname & protocol for your site
 
 defaults:
 - scope:
