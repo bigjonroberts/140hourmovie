@@ -46,7 +46,7 @@ phone:              undisclosed
 email:              josiah@140hourmovie.com
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed

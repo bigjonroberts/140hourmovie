@@ -13,7 +13,7 @@ jobs:
       # - run: bundle exec htmlproofer ./_site --only-4xx --allow-hash-href
       - add_ssh_keys:
           fingerprints:
-            - "f:b0:48:20:d5:3f:3e:32:03:b9:3a:f7:90:6d:69:f4"
+            - "1f:b0:48:20:d5:3f:3e:32:03:b9:3a:f7:90:6d:69:f4"
       - deploy:
           name: Deploy Release to GitHub
           command: ./bin/automated
