@@ -32,9 +32,13 @@ We are going to answer that question, but with a twist - YOU can pick the movie!
 <div class="box">
   <ol>
     <li>	$5+ You get points to enforce your will. Pick the movie you think I should have to endure, and pick your favorite charity.</li>
-    <li>	$69.420 - Nice, leave your email and I’ll send you a message.</li>
+    <li>	$69.420 - Nice, leave your email or favorite social media and username and I’ll send you a message.</li>
     <li>	$70+ You get access to the chat within which I will interact with you folks every day from 9pm to 1am central time.</li>
-    <li>	Top donator for each day will have the opportunity to have me wear a shirt promoting a company of their choice, and I will read up to one page of a family friendly ad.</li>
+    <li>	Top donator: whoever donates the most money for any given day will receive additional perks.</li>
+      <ul>
+          <li>I will wear any shirt that they pick, on the day that they were the top donor for.</li>
+          <li>I will read a family friendly ad, provided by the top donor, live on the stream. The ad can be up to one page long.</li>
+     </ul>
   </ol>
 </div>
 
