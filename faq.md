@@ -17,6 +17,6 @@ Everything you ever wanted to know about this challenge (and some things you did
 - Why isn't my vote showing up yet? <br/> A. Vote information is updated at least once per day.
 
 ### Miscellaneous Questions
-- Will the live stream show you sleeping?</br>A. No.  Ewww. Go away.
+- Will the live stream show you sleeping? <br/> A. No.  Ewww. Go away.
 
 Q. What is the answer to life, the universe, and everything? <br/> A. 42

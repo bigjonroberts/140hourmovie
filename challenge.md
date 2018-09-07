@@ -9,7 +9,7 @@ sitemap:
 ---
 ## The Origins of the Challenge
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/porch-arms-out.jpeg" | absolute_url }}" alt="" /></span>
 
 On Sept 3, 2018, [/u/Caboucha](https://www.reddit.com/user/Caboucha) asked the following question on /r/AskReddit :
 
@@ -79,6 +79,6 @@ We are going to answer that question, but with a twist - YOU can pick the movie!
   </ol>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/porch-hunched.jpeg" | absolute_url }}" alt="" /></span>
 
 If you have questions about the reasons behind some of the rules above, please check out our FAQ.
