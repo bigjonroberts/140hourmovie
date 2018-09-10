@@ -108,7 +108,7 @@
 			$header = $('#header'),
 			$nav = $('#nav'),
 			$main = $('#main'),
-			$navPanelToggle, $navPanel, $navPanelInner;
+			$navPanelToggle, $voteToggle, $navPanel, $navPanelInner;
 
 		// Disable animations/transitions until the page has loaded.
 			$window.on('load', function() {
@@ -134,6 +134,10 @@
 		// Nav Panel.
 
 			// Toggle.
+				$voteToggle = $(
+					'<a href="/vote/" id="voteToggle">Vote Now!</a>'
+				)
+					.appendTo($wrapper);
 				$navPanelToggle = $(
 					'<a href="#navPanel" id="navPanelToggle">Menu</a>'
 				)
@@ -144,9 +148,11 @@
 						bottom: '5vh',
 						enter: function() {
 							$navPanelToggle.removeClass('alt');
+							$voteToggle.removeClass('alt');
 						},
 						leave: function() {
 							$navPanelToggle.addClass('alt');
+							$voteToggle.addClass('alt');
 						}
 					});
 
