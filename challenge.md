@@ -17,6 +17,22 @@ On Sept 3, 2018, [/u/Caboucha](https://www.reddit.com/user/Caboucha) asked the f
 
 We are going to answer that question, but with a twist - YOU can pick the movie!
 
+### Charitible Giving
+
+As the challenge proceeds, more and more of the funds will go to charity.
+Here is the schedule for charitable contributions.
+
+<table class='schedule'>
+<tr><th>Day</th><th>Daily Raised</th><th>Running Total</th><th>Daily Charity %</th><th>Fixed Costs</th><th>Total Charity $</th><th>Total Charity %</th></tr>
+<tr><td>1</td><td>08,000</td><td>008,000</td><td>20%</td><td>1,000</td><td>01,274</td><td>20%</td></tr>
+<tr><td>2</td><td>11,286</td><td>019,286</td><td>30%</td><td></td><td>04,392</td><td>26%</td></tr>
+<tr><td>3</td><td>14,571</td><td>033,857</td><td>40%</td><td></td><td>09,760</td><td>32%</td></tr>
+<tr><td>4</td><td>17,857</td><td>051,714</td><td>50%</td><td></td><td>17,983</td><td>39%</td></tr>
+<tr><td>5</td><td>21,143</td><td>072,857</td><td>55%</td><td></td><td>28,693</td><td>43%</td></tr>
+<tr><td>6</td><td>24,429</td><td>097,286</td><td>60%</td><td></td><td>42,192</td><td>48%</td></tr>
+<tr><td>7</td><td>$27,714</td><td>$125,000</td><td>65%</td><td></td><td>$58,784</td><td>52%</td></tr>
+</table>
+
 ### Voting
 <div class="box">
   <dl>
@@ -24,7 +40,11 @@ We are going to answer that question, but with a twist - YOU can pick the movie!
     <dd>$1 per vote with $5 minimum, votes are cast via hashtags in comments on the gofundme page, votes are cast for movie and for charity, I will watch the movie that has the most points as of 12/24/2018.</dd>
     
     <dt>Details</dt>
-    <dd>Votes will be recorded for which movie I will watch, and for which charity you want to donate to. Votes cost $1 each, with a minimum donation of $5 for voting privileges, and will be recorded as points for any movie or charity. Votes will be cast via comments on gofundme, simply say what you want to say and leave a # to cast your vote. For example: if you were to donate ONE MILLION DOLLARS, your single comment would add a million points to the movie hashtagged in your comment, and a million points to the charity hashtagged in your comment. Example comment of example scenario: “Hey I hope you get to watch a movie you really enjoy! Keep up the good work you cute and funny fellow ;) #groundhogday #WoundedWarriorProject.” For this comment, one million points would go to the movie Groundhog Day, and one million points would to to the Wounded Warrior Project Charity. If for whatever reason you decide not to leave a comment, your movie points will go toward whichever movie is winning at the time of your donation, and your charity points will go to fund the Habitat for Humanity of San Antonio.</dd>
+    <dd>Votes will be recorded for which movie I will watch, and for which charity you want to donate to. Votes cost $1 each, with a minimum donation of $5 for voting privileges, and will be recorded as points for any movie or charity. Votes will be cast via comments on gofundme, simply say what you want to say and leave a # to cast your vote. For example: if you were to donate ONE MILLION DOLLARS, your single comment would add a million points to the movie hashtagged in your comment, and a million points to the charity hashtagged in your comment. Example comment of example scenario: 
+    
+    <blockquote>Hey I hope you get to watch a movie you really enjoy! Keep up the good work you cute and funny fellow ;) #MovieGroundhogDay #CharityWoundedWarriorProject.</blockquote>
+    
+    For this comment, one million points would go to the movie Groundhog Day, and one million points would to to the Wounded Warrior Project Charity. If for whatever reason you decide not to leave a comment, your movie points will go toward whichever movie is winning at the time of your donation, and your charity points will go to fund the Habitat for Humanity of San Antonio.</dd>
   </dl>
 </div>
 
@@ -81,4 +101,4 @@ We are going to answer that question, but with a twist - YOU can pick the movie!
 
 <span class="image left"><img src="{{ "/images/porch-hunched.jpeg" | absolute_url }}" alt="" /></span>
 
-If you have questions about the reasons behind some of the rules above, please check out our FAQ.
+If you have questions about the reasons behind some of the rules above, please check out our [FAQ]({{ '/faq/' | absolute_url }}).

@@ -10,6 +10,11 @@ sitemap:
 
 Everything you ever wanted to know about this challenge (and some things you didn't want to know).
 
+### General Questions
+- When will the challenge take place? <br/> A. The challenge is scheduled to start at 9 am on December 30th, 2018 and complete at 9 am January 6th, 2019.
+- Where will the challenge take place? <br/> A. At an undisclosed location in San Antonio TX.  It will be live-streamed for 20 hours each day.
+- What happens if you get more votes/donations than the goal for 7 days? <br/> A. The challenge will likely be extended with greater percentages going to charity. The hours of sleep per night will increase from 4 to 6 hours.  If this happens, we will publish an extended schedule detailing the amounts that will go to charity.
+
 ### Financial Questions
 - Why shouldn't I just give money directly to charity? <br/> A. You should! Give Directly to [The Habitat for Humanity of San Antonio](https://www.givedirect.org/donate/?cid=246) right now!
 

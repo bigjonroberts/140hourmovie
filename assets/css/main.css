@@ -3518,7 +3518,7 @@
 					-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 					transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 					display: block;
-					font-size: 0.8rem;
+					font-size: 0.75rem;
 					outline: none;
 					padding: 0 2rem;
 				}
@@ -4481,3 +4481,16 @@
 		}
 
 	}
+
+	#schedule {
+		font-family: FreeMono, monospace;
+	}
+
+	#schedule .th {
+		font-weight: bold
+	}
+	
+	#schedule .td {
+		text-align: right
+	}
+	
