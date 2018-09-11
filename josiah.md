@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Josiah
 
-<span class="image left"><img src="{{ "/images/selfie.jpeg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/selfie.jpeg" | absolute_url }}" alt="awwww" /></span>
 
 Josiah is a regular guy, but he's no average Jo.
 
@@ -33,6 +33,6 @@ Josiah is a regular guy, but he's no average Jo.
 </div>
 
 
-<span class="image left"><img src="{{ "/images/porch-stare-arms-down.jpeg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/porch-stare-arms-down.jpeg" | absolute_url }}" alt="horizon" /></span>
 
 Thank you for reading about Josiah.

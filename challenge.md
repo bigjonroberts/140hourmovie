@@ -9,7 +9,7 @@ sitemap:
 ---
 ## The Origins of the Challenge
 
-<span class="image left"><img src="{{ "/images/porch-arms-out.jpeg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/porch-arms-out.jpeg" | absolute_url }}" alt="visionary" /></span>
 
 On Sept 3, 2018, [/u/Caboucha](https://www.reddit.com/user/Caboucha) asked the following question on /r/AskReddit :
 
@@ -37,7 +37,7 @@ Here is the schedule for charitable contributions.
 <div class="box">
   <dl>
     <dt>TLDR</dt>
-    <dd>$1 per vote with $5 minimum, votes are cast via hashtags in comments on the [gofundme page](https://www.gofundme.com/140-hour-movie-challenge), votes are cast for movie and for charity, I will watch the movie that has the most points as of 12/24/2018.</dd>
+    <dd>$1 per vote with $5 minimum, votes are cast via hashtags in comments on the [gofundme page](https://www.gofundme.com/140-hour-movie-challenge/donate), votes are cast for movie and for charity, I will watch the movie that has the most points as of 12/24/2018.</dd>
     
     <dt>Details</dt>
     <dd>Votes will be recorded for which movie I will watch, and for which charity you want to donate to. Votes cost $1 each, with a minimum donation of $5 for voting privileges, and will be recorded as points for any movie or charity. Votes will be cast via comments on gofundme, simply say what you want to say and leave a # to cast your vote. For example: if you were to donate ONE MILLION DOLLARS, your single comment would add a million points to the movie hashtagged in your comment, and a million points to the charity hashtagged in your comment. Example comment of example scenario: 
@@ -99,6 +99,6 @@ Here is the schedule for charitable contributions.
   </ol>
 </div>
 
-<span class="image left"><img src="{{ "/images/porch-hunched.jpeg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/porch-hunched.jpeg" | absolute_url }}" alt="contemplative" /></span>
 
 If you have questions about the reasons behind some of the rules above, please check out our [FAQ]({{ '/faq/' | absolute_url }}).

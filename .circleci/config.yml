@@ -10,7 +10,7 @@ jobs:
       - checkout
       - run: ./bin/setup
       - run: bundle exec jekyll build
-      # - run: bundle exec htmlproofer ./_site --only-4xx --allow-hash-href
+      - run: bundle exec htmlproofer ./_site --only-4xx --allow-hash-href
       - add_ssh_keys:
           fingerprints:
             - "1f:b0:48:20:d5:3f:3e:32:03:b9:3a:f7:90:6d:69:f4"
