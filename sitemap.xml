@@ -1,32 +1,104 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
+  
     <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-      {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
+      <loc>https://www.140hourmovie.com/blog/the-challenge-is-live/</loc>
+      
+        <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+      
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
     </url>
-  {% endfor %}
-  {% for page in site.pages %}
+  
+  
     <url>
-      <loc>{{ site.url }}{{ page.url }}</loc>
-      {% if page.sitemap.lastmod == null %} <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      {% else %} <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      {% if page.sitemap.changefreq == null %} <changefreq>weekly</changefreq>
-      {% else %} <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-      {% endif %}
-      {% if page.sitemap.priority == null %} <priority>0.5</priority>
-      {% else %} <priority>{{ page.sitemap.priority }}</priority>
-      {% endif %}
+      <loc>https://www.140hourmovie.com/blog/</loc>
+       <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
      </url>
-  {% endfor %}
+  
+    <url>
+      <loc>https://www.140hourmovie.com/challenge/</loc>
+       <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>https://www.140hourmovie.com/faq/</loc>
+       <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>https://www.140hourmovie.com/</loc>
+       <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>https://www.140hourmovie.com/josiah/</loc>
+       <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>https://www.140hourmovie.com/sitemap.xml</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>https://www.140hourmovie.com/vote/</loc>
+       <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>https://www.140hourmovie.com/robots.txt</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>https://www.140hourmovie.com/feed.xml</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
 </urlset>
